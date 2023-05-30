@@ -182,7 +182,7 @@ class GameActivity : AppCompatActivity() {
 
             if(winner==1){
 
-                Toast.makeText(this,"Player 1 win this match", Toast.LENGTH_LONG).show()
+                Toast.makeText(this," Player 1 win this match", Toast.LENGTH_LONG).show()
 
 
 //

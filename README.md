@@ -2,7 +2,7 @@
 
 **#Project Goal:** For making a Tic-Tac-Toe game that can be played by two players.
 
-**#Project Requirements: ** This game must be able to be played by two players. The game must be able to determine the winner of the game.
+**#Project Requirements:** This game must be able to be played by two players. The game must be able to determine the winner of the game.
 
 **#Challenges:** The main challenge of my project is to implement result dialog with View Binding. I want to develop this app where two
  players can take gaming experience perfectly without feeling insecurity.
